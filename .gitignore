@@ -1,0 +1,8 @@
+# Personal flashcards and quiz data
+flashcards.json
+scores.json
+export.json
+
+# Python-generated files
+__pycache__/
+*.py[cod]
